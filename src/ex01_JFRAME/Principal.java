@@ -6,7 +6,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		
-		//Instanciar JFrame
+		//Instanciar JFrame 
 				JFrame formulario = new JFrame();
 				formulario.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				formulario.setSize(300, 130);
